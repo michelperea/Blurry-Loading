@@ -4,7 +4,7 @@ Blurry Loading project.
 Created with HTML, CSS and JavaScript.
 
 ## Author ✒️
-**Ricardo Perea**
+**Michel Perea**
 
 * [LinkedIn](https://www.linkedin.com/in/michel-perea/)
 
